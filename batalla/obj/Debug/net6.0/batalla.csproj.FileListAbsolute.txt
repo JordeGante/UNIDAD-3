@@ -1,0 +1,15 @@
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\batalla.exe
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\batalla.deps.json
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\batalla.runtimeconfig.json
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\batalla.dll
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\ref\batalla.dll
+C:\Users\jorma\Desktop\batalla\bin\Debug\net6.0\batalla.pdb
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.csproj.AssemblyReference.cache
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.AssemblyInfoInputs.cache
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.AssemblyInfo.cs
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.csproj.CoreCompileInputs.cache
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.dll
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\ref\batalla.dll
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.pdb
+C:\Users\jorma\Desktop\batalla\obj\Debug\net6.0\batalla.genruntimeconfig.cache
